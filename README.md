@@ -2,7 +2,7 @@
 
 I am a **software developer** currently living in Mumbai, India.
 
-Currently, I work on **.NET Technologies using C# Language** and write my blog post around the same. **You can have a look at some of my posts <a href="/">here</a>.**
+Currently, I work on **.NET Technologies using C# Language** and write my blog post around the same. **You can have a look at some of my posts <a href="https://codewithshadman.com/">here</a>.**
 
 Feel free to **[email me](mailto:kudchikarsk@gmail.com)** if you want some explanation on a particular topic and I will try to explain it in my future posts. 
 
