@@ -11,9 +11,6 @@ Feel free to **[email me](mailto:kudchikarsk@gmail.com)** if you want some expla
 
 ### :fire: My Stats :
 
-<a href="https://git.io/streak-stats">
-  <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com?user=kudchikarsk&card_width=450" />
-</a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kudchikarsk&layout=compact&langs_count=8&card_width=320" />
 </a>
