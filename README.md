@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a **software developer** currently living in Mumbai, India.
+I am a **Senior Full Stack Software Engineer** currently living in Mumbai, India.
 
 Currently, I work on **.NET Technologies using C# Language** and write my blog post around the same. **You can have a look at some of my posts <a href="https://codewithshadman.com/">here</a>.**
 
